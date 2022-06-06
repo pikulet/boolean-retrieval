@@ -1,6 +1,4 @@
-This is the README file for the submission of:
-JOYCE YEO SHUHUI
-ANU KRITI WADHWA
+Done together with ANU KRITI WADHWA
 
 == Python Version ==
 
